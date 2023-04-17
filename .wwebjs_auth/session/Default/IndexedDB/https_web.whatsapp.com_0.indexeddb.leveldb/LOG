@@ -1,0 +1,20 @@
+2023/04/18-04:13:39.156 161c Reusing MANIFEST D:\DEV\microservices\users\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/18-04:13:39.157 161c Recovering log #3
+2023/04/18-04:13:39.219 161c Reusing old log D:\DEV\microservices\users\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2023/04/18-04:13:39.313 1f00 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/18-04:13:39.324 1f00 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/18-04:13:39.328 161c Level-0 table #5: started
+2023/04/18-04:13:39.342 161c Level-0 table #5: 91522 bytes OK
+2023/04/18-04:13:39.349 161c Delete type=0 #3
+2023/04/18-04:13:39.364 161c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/18-04:13:39.391 161c Level-0 table #7: started
+2023/04/18-04:13:39.399 161c Level-0 table #7: 15367 bytes OK
+2023/04/18-04:13:39.408 161c Delete type=0 #4
+2023/04/18-04:13:39.410 161c Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/18-04:13:39.410 161c Manual compaction at level-1 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\xc8\x03\x00w\x00a\x00m' @ 6165 : 1
+2023/04/18-04:13:39.410 161c Compacting 1@1 + 1@2 files
+2023/04/18-04:13:39.434 161c Generated table #8@1: 133 keys, 2150 bytes
+2023/04/18-04:13:39.434 161c Compacted 1@1 + 1@2 files => 2150 bytes
+2023/04/18-04:13:39.446 161c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/18-04:13:39.446 161c Delete type=2 #7
+2023/04/18-04:13:39.447 470 Manual compaction at level-1 from '\x00\x08\x00\x00\xc8\x03\x00w\x00a\x00m' @ 6165 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

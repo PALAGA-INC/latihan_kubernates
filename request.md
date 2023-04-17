@@ -1,0 +1,1 @@
+curl --cert ./certificate.pem --key ./privatekey.pem -X POST -H "Content-Type: application/json" -d '{"username": "palaga", "phone": "881038242584", "password": "Agha1992@"}' https://localhost:443/api/users/sendverification

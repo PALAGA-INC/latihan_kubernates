@@ -1,0 +1,3 @@
+2023/04/18-04:12:44.376 323c Creating DB D:\DEV\microservices\users\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/04/18-04:12:44.394 323c Reusing MANIFEST D:\DEV\microservices\users\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/18-04:12:44.464 3048 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

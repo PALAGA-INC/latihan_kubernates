@@ -1,0 +1,12 @@
+node_modules/
+npm-debug.log
+.DS_Store
+.env
+.git/
+.gitignore
+README.md
+LICENSE
+*.swp
+*.swo
+*.log
+*.pid
